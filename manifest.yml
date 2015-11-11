@@ -1,0 +1,9 @@
+---
+applications:
+- path: EcoDCNC-HelloWorld.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: EcoDCNC-JavaServlet
+  host: EcoDCNC-JavaServlet
+  disk_quota: 512M
