@@ -27,3 +27,5 @@ The Java Hello World Web Starter application contains the following contents:
 	This directory contains libraries that are needed to compile locally, but are provided by Bluemix and not included in the WAR file. 
 	
 	
+You can deploy this application to your Bluemix by clicking this button
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibmecod/javaplays-javapojo-helloworld.git)
