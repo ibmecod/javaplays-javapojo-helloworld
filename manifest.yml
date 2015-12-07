@@ -1,6 +1,6 @@
 ---
 applications:
-- path: EcoDCNC-HelloWorld.war
+- path: ecodcnc-helloworld.war
   memory: 512M
   instances: 1
   domain: mybluemix.net
